@@ -1,6 +1,6 @@
 # Azure DevOps
 
-#### | Documentação em Inglês: 
+#### | Documentação em Inglês: [Clique aqui](/DocAzureDevOps/AzureDevOpsEnglish.md)
 
 ## O que é o Azure DevOps?
 > **R:** O Azure DevOps é um serviço baseado em nuvem que fornece ferramentas e serviços de desenvolvimento de software criado pela Microsoft. O Azure dá suporte ao processo de desenvolvimento e implantação de software, permitindo que as equipes desenvolvam aplicações através do planeamento adequado do trabalho, e da colaboração durante o desenvolvimento do código. Além disso, o Azure DevOps integra uma variedade de ferramentas que permitem às organizações fornecer software de qualidade aos usuários de maneira mais rápida e simples.
@@ -35,5 +35,5 @@
 - [X] Se precisar autenticar use o aplicativo recomendado: autenticator e pronto você está logado no azure! Aqui vai um passo a passo com imagens:
 
 >![Azure Tutorial 1](/Azure1.png)
-![Azure Tutorial 1](/Azure2.png)
-![Azure Tutorial 1](/Azure3.png)
+![Azure Tutorial 2](/Azure2.png)
+![Azure Tutorial 3](/Azure3.png)
